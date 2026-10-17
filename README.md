@@ -37,7 +37,7 @@ I am a software developer and cybersecurity enthusiast focused on low-level syst
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanjha0ae-glitch&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjha0ae-glitch&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjha0ae-glitch&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
 </p>
 
 ---
